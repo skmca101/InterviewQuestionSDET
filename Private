@@ -15,6 +15,24 @@ Asked by HCLTech
     - Find the duplicates in an array and count their occurences
     - Logic to remove special characters from string
 
+/**************List of String Program**********************
+Strings Program
+1- Reverse a string with and without its rspective position
+2- Find vowels and consonants
+3- Reverse any specific character
+4- Convert a string array into number array
+5- swap two string variable without
+6- Create an object array with employee keys and value and add/cut rs500 from all employee salary.
+7- Find occurences of each character
+8- Remove the duplicate characters 
+9- Capitalize each letter of string.
+10- Check two strings are Anagram or not
+11- Find the substring of strings
+12- Count occurances of specific character */
+
+//**************List of String Program***********************/
+
+
 
 3- Manual Testing concept
    - Diffrence b/w severity and priority with real world examples
