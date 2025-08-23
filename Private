@@ -1,0 +1,55 @@
+Asked by HCLTech
+1- Automation Testing and Framework
+  - Explain automation framework you have built and worked on.
+  - Why did you choose a particular framework (like Hybrid, BDD, POM)?
+  - How do you handle dynamic elements or flaky tests in cypress
+  - What's your approach to integrating automation in a CI/CD pipeline?
+  - How do you manage test data in automation?
+  - How will you handle multiple environments in cypress?
+
+
+2- Coding
+    - WAP a function to reverse a string without inbuilt method
+    - Find the second highest number in a array
+    - Check a string is palindrom or anagram
+    - Find the duplicates in an array and count their occurences
+    - Logic to remove special characters from string
+
+
+3- Manual Testing concept
+   - Diffrence b/w severity and priority with real world examples
+   - How do you write effective test cases?
+   - What is diffrence b/w sanity and smoke testing?
+   - How do you report bugs and track them in your current workflow?
+
+
+3- API testing
+   - How do you validate response payloads, headers and status code?
+   - when to use PUT and PATCH
+
+
+4- Framework and Design based questions
+  - Explain POM and why its used?
+  - Difference b/w BDD and TDD approaches
+  - How do you structure your test automation projects
+  - How do you ensure maintainability and scalability of your test framework?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
