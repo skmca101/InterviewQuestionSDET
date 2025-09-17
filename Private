@@ -6,8 +6,6 @@ Asked by HCLTech
   - What's your approach to integrating automation in a CI/CD pipeline?
   - How do you manage test data in automation?
   - How will you handle multiple environments in cypress?
-
-
 2- Coding
     - WAP a function to reverse a string without inbuilt method
     - Find the second highest number in a array
@@ -31,41 +29,86 @@ Strings Program
 12- Count occurances of specific character */
 
 //**************List of String Program***********************/
-
-
-
 3- Manual Testing concept
    - Diffrence b/w severity and priority with real world examples
    - How do you write effective test cases?
    - What is diffrence b/w sanity and smoke testing?
    - How do you report bugs and track them in your current workflow?
-
-
 3- API testing
    - How do you validate response payloads, headers and status code?
    - when to use PUT and PATCH
-
-
 4- Framework and Design based questions
   - Explain POM and why its used?
   - Difference b/w BDD and TDD approaches
   - How do you structure your test automation projects
   - How do you ensure maintainability and scalability of your test framework?
 
+=====================Interview Attended by Me============================
+HCLTech- SDET  (Final Status SELECTED!!!!)
+-------------
+1- Tell me something about yourself including your previous and current working exp
+2- open Programiz and type the program-
+   - Reverse a string with and without inbuilt methods.
+   - Given a digit,convert it into array
+   - Why we uses Promises in JS?
+3- Open Notepad-
+   - Write the cypress command to login the page with valid credentials
+   - Validate the title and URL of page
+   - Types of selectors and which one you using mostly and why? Is know about xpath?
+   - Why we uses hooks in cypress explain each with real world example?
+   - Difference b/w PUT and PATCH in API
+   - Write a API command in cypress to GET the data. To fetch data, you should have a Token. So first generate 
+     token and then fetch the data
+4- Agile Methodology - you know about ceremony?
+5- Explain your framework. How do you built it?
+6- Which Source Code management you have used? explain-
+   - How receive the automation task?
+   - If you have created a pipeline, then define the procedure, how create the pipeline?
+   
+7- How will you handle iFrame and multi window in cypress?
+8- Did you worked in multi env? how will you configure it locally?
+============================================================================================
 
+Question List by Virtuassa
+==========================
 
+Start Interview - Introduction, Exp, Current 
 
+1- How you will differentiate to Selenium webDriver and Cypress working
 
+2- How will you handle in cypress: -
+    o- Cross Browser Testing
+	o- Handle pop ups
+	o- Interact with web elements write a script
+	
+3- What is sync and async approach? how will you handle in cypress?
 
+4- I want to wait a action to complete then execute next in cypress
 
+5- Explain and write the script of-
+   o- iframe handling
+   o- FileUpload
+   o- Interact forms element in sync way. wait till complete first.
+   
+6- You have a large scale project, how you will develope your framework?
 
+7- How you will handle dynamic elements in cypress
 
+8- Why we use promise? how we did need it? could you explain async-await function in js
 
+9- Write a script of google to click on 3rd elements
 
+10- API in cypress => You have received a req how you will stub the response of the API    
 
+11- How to monitroing/priotarize the importance of test cases whose will execute first and kiske liye manual test kroge aur kiske liye automation
 
+12- JS=> string - repeat a word of string, array filter and concatenation, spread operator, how many characters are occuring in string.
 
+13- CICD, Azure DevOps, Github
 
+14- Suppose your script are running in your local machine but are going fail in CI pipeline then how you will handle it
+
+15- In cypress, how to manage the file to run on jenkins pipeline
 
 
 
