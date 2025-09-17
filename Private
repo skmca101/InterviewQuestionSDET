@@ -1,47 +1,4 @@
-Asked by HCLTech
-1- Automation Testing and Framework
-  - Explain automation framework you have built and worked on.
-  - Why did you choose a particular framework (like Hybrid, BDD, POM)?
-  - How do you handle dynamic elements or flaky tests in cypress
-  - What's your approach to integrating automation in a CI/CD pipeline?
-  - How do you manage test data in automation?
-  - How will you handle multiple environments in cypress?
-2- Coding
-    - WAP a function to reverse a string without inbuilt method
-    - Find the second highest number in a array
-    - Check a string is palindrom or anagram
-    - Find the duplicates in an array and count their occurences
-    - Logic to remove special characters from string
 
-/**************List of String Program**********************
-Strings Program
-1- Reverse a string with and without its rspective position
-2- Find vowels and consonants
-3- Reverse any specific character
-4- Convert a string array into number array
-5- swap two string variable without
-6- Create an object array with employee keys and value and add/cut rs500 from all employee salary.
-7- Find occurences of each character
-8- Remove the duplicate characters 
-9- Capitalize each letter of string.
-10- Check two strings are Anagram or not
-11- Find the substring of strings
-12- Count occurances of specific character */
-
-//**************List of String Program***********************/
-3- Manual Testing concept
-   - Diffrence b/w severity and priority with real world examples
-   - How do you write effective test cases?
-   - What is diffrence b/w sanity and smoke testing?
-   - How do you report bugs and track them in your current workflow?
-3- API testing
-   - How do you validate response payloads, headers and status code?
-   - when to use PUT and PATCH
-4- Framework and Design based questions
-  - Explain POM and why its used?
-  - Difference b/w BDD and TDD approaches
-  - How do you structure your test automation projects
-  - How do you ensure maintainability and scalability of your test framework?
 
 =====================Interview Attended by Me============================
 HCLTech- SDET  (Final Status SELECTED!!!!)
@@ -109,7 +66,52 @@ Start Interview - Introduction, Exp, Current
 14- Suppose your script are running in your local machine but are going fail in CI pipeline then how you will handle it
 
 15- In cypress, how to manage the file to run on jenkins pipeline
+====================================================================================================
 
+Asked by HCLTech
+1- Automation Testing and Framework
+  - Explain automation framework you have built and worked on.
+  - Why did you choose a particular framework (like Hybrid, BDD, POM)?
+  - How do you handle dynamic elements or flaky tests in cypress
+  - What's your approach to integrating automation in a CI/CD pipeline?
+  - How do you manage test data in automation?
+  - How will you handle multiple environments in cypress?
+2- Coding
+    - WAP a function to reverse a string without inbuilt method
+    - Find the second highest number in a array
+    - Check a string is palindrom or anagram
+    - Find the duplicates in an array and count their occurences
+    - Logic to remove special characters from string
+
+/**************List of String Program**********************
+Strings Program
+1- Reverse a string with and without its rspective position
+2- Find vowels and consonants
+3- Reverse any specific character
+4- Convert a string array into number array
+5- swap two string variable without
+6- Create an object array with employee keys and value and add/cut rs500 from all employee salary.
+7- Find occurences of each character
+8- Remove the duplicate characters 
+9- Capitalize each letter of string.
+10- Check two strings are Anagram or not
+11- Find the substring of strings
+12- Count occurances of specific character */
+
+//**************List of String Program***********************/
+3- Manual Testing concept
+   - Diffrence b/w severity and priority with real world examples
+   - How do you write effective test cases?
+   - What is diffrence b/w sanity and smoke testing?
+   - How do you report bugs and track them in your current workflow?
+3- API testing
+   - How do you validate response payloads, headers and status code?
+   - when to use PUT and PATCH
+4- Framework and Design based questions
+  - Explain POM and why its used?
+  - Difference b/w BDD and TDD approaches
+  - How do you structure your test automation projects
+  - How do you ensure maintainability and scalability of your test framework?
 
 
 
